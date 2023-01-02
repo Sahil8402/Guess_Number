@@ -40,7 +40,7 @@ main {
     font-size: 2.2rem;
     margin: 2rem;
     text-transform: uppercase;
-    background-image: linear-gradient(to right top, #348fff, #12d4ff, #2fffdc, #4dff7f, #ebe712);
+    background-image: linear-gradient(to right top, #ffff34, #ffc812, #ff8f2f, #ff554d, #eb1267);;
     background-size: 50% auto;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
